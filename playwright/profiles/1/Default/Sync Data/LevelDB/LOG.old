@@ -1,6 +1,0 @@
-2024/01/24-00:50:45.040 249a Reusing MANIFEST /home/tmkha/Workspaces/airdrop-x/playwright/profiles/1/Default/Sync Data/LevelDB/MANIFEST-000001
-2024/01/24-00:50:45.040 249a Recovering log #227
-2024/01/24-00:50:45.040 249a Reusing old log /home/tmkha/Workspaces/airdrop-x/playwright/profiles/1/Default/Sync Data/LevelDB/000227.log 
-2024/01/24-00:51:45.270 249b Level-0 table #232: started
-2024/01/24-00:51:45.341 249b Level-0 table #232: 171864 bytes OK
-2024/01/24-00:51:45.386 249b Delete type=0 #227
