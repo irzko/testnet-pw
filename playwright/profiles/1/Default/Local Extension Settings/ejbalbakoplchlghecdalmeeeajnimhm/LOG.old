@@ -1,0 +1,27 @@
+2024/01/24-00:50:48.437 249a Reusing MANIFEST /home/tmkha/Workspaces/airdrop-x/playwright/profiles/1/Default/Local Extension Settings/ejbalbakoplchlghecdalmeeeajnimhm/MANIFEST-000001
+2024/01/24-00:50:48.438 249a Recovering log #1877
+2024/01/24-00:50:48.452 249a Reusing old log /home/tmkha/Workspaces/airdrop-x/playwright/profiles/1/Default/Local Extension Settings/ejbalbakoplchlghecdalmeeeajnimhm/001877.log 
+2024/01/24-00:51:01.550 249b Level-0 table #1881: started
+2024/01/24-00:51:01.631 249b Level-0 table #1881: 2298970 bytes OK
+2024/01/24-00:51:01.665 249b Delete type=0 #1877
+2024/01/24-00:51:12.563 249b Level-0 table #1883: started
+2024/01/24-00:51:12.723 249b Level-0 table #1883: 2297700 bytes OK
+2024/01/24-00:51:12.762 249b Delete type=0 #1880
+2024/01/24-00:51:12.767 249b Compacting 4@0 + 1@1 files
+2024/01/24-00:51:12.855 249b Generated table #1884@0: 1 keys, 1148978 bytes
+2024/01/24-00:51:12.855 249b Compacted 4@0 + 1@1 files => 1148978 bytes
+2024/01/24-00:51:12.888 249b compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/01/24-00:51:12.889 249b Delete type=2 #1874
+2024/01/24-00:51:12.889 249b Delete type=2 #1876
+2024/01/24-00:51:12.889 249b Delete type=2 #1883
+2024/01/24-00:51:12.890 249b Delete type=2 #1878
+2024/01/24-00:51:12.890 249b Delete type=2 #1881
+2024/01/24-00:51:18.086 249b Level-0 table #1886: started
+2024/01/24-00:51:18.164 249b Level-0 table #1886: 2296861 bytes OK
+2024/01/24-00:51:18.200 249b Delete type=0 #1882
+2024/01/24-00:51:22.411 249b Level-0 table #1888: started
+2024/01/24-00:51:22.569 249b Level-0 table #1888: 2296512 bytes OK
+2024/01/24-00:51:22.627 249b Delete type=0 #1885
+2024/01/24-00:51:35.378 249b Level-0 table #1890: started
+2024/01/24-00:51:35.583 249b Level-0 table #1890: 2298153 bytes OK
+2024/01/24-00:51:35.620 249b Delete type=0 #1887

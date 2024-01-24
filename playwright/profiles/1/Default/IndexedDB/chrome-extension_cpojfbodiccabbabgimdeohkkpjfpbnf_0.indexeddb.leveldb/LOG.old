@@ -1,0 +1,25 @@
+2024/01/22-16:20:53.627 2c039 Reusing MANIFEST /home/tmkha/Workspaces/airdrop-x/playwright/profiles/1/Default/IndexedDB/chrome-extension_cpojfbodiccabbabgimdeohkkpjfpbnf_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/22-16:20:53.627 2c039 Recovering log #653
+2024/01/22-16:20:53.628 2c039 Reusing old log /home/tmkha/Workspaces/airdrop-x/playwright/profiles/1/Default/IndexedDB/chrome-extension_cpojfbodiccabbabgimdeohkkpjfpbnf_0.indexeddb.leveldb/000653.log 
+2024/01/22-16:20:53.628 2c039 Delete type=2 #652
+2024/01/22-16:20:53.752 2c047 Level-0 table #658: started
+2024/01/22-16:20:53.863 2c047 Level-0 table #658: 702 bytes OK
+2024/01/22-16:20:53.921 2c047 Delete type=0 #653
+2024/01/22-16:20:53.921 2c047 Manual compaction at level-0 from '\x00\xd0\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\xd1\x00\x00\x00' @ 0 : 0; will stop at '\x00\xd0\x00\x00\x05' @ 6483 : 1
+2024/01/22-16:20:53.922 2c047 Compacting 1@0 + 1@1 files
+2024/01/22-16:20:53.955 2c047 Generated table #659@0: 254 keys, 6966 bytes
+2024/01/22-16:20:53.956 2c047 Compacted 1@0 + 1@1 files => 6966 bytes
+2024/01/22-16:20:54.012 2c047 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/01/22-16:20:54.012 2c047 Delete type=2 #658
+2024/01/22-16:20:54.012 2c039 Manual compaction at level-0 from '\x00\xd0\x00\x00\x05' @ 6483 : 1 .. '\x00\xd1\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/01/22-16:20:54.013 2c039 Level-0 table #661: started
+2024/01/22-16:20:54.035 2c039 Level-0 table #661: 706 bytes OK
+2024/01/22-16:20:54.069 2c039 Delete type=2 #655
+2024/01/22-16:20:54.069 2c039 Delete type=0 #657
+2024/01/22-16:20:54.069 2c039 Manual compaction at level-0 from '\x00\xd1\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\xd2\x00\x00\x00' @ 0 : 0; will stop at '\x00\xd1\x00\x00\x05' @ 6500 : 1
+2024/01/22-16:20:54.069 2c039 Compacting 1@0 + 1@1 files
+2024/01/22-16:20:54.091 2c039 Generated table #662@0: 254 keys, 6965 bytes
+2024/01/22-16:20:54.092 2c039 Compacted 1@0 + 1@1 files => 6965 bytes
+2024/01/22-16:20:54.125 2c039 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/01/22-16:20:54.126 2c039 Delete type=2 #661
+2024/01/22-16:20:54.126 2c039 Manual compaction at level-0 from '\x00\xd1\x00\x00\x05' @ 6500 : 1 .. '\x00\xd2\x00\x00\x00' @ 0 : 0; will stop at (end)

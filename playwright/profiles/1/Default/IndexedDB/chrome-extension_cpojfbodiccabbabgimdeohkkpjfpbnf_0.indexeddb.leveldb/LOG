@@ -1,0 +1,47 @@
+2024/01/22-16:21:47.256 2c22b Reusing MANIFEST /home/tmkha/Workspaces/airdrop-x/playwright/profiles/1/Default/IndexedDB/chrome-extension_cpojfbodiccabbabgimdeohkkpjfpbnf_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/22-16:21:47.257 2c22b Recovering log #660
+2024/01/22-16:21:47.257 2c22b Reusing old log /home/tmkha/Workspaces/airdrop-x/playwright/profiles/1/Default/IndexedDB/chrome-extension_cpojfbodiccabbabgimdeohkkpjfpbnf_0.indexeddb.leveldb/000660.log 
+2024/01/22-16:21:47.257 2c22b Delete type=2 #659
+2024/01/22-16:21:47.385 2c22b Level-0 table #665: started
+2024/01/22-16:21:47.409 2c22b Level-0 table #665: 702 bytes OK
+2024/01/22-16:21:47.466 2c22b Delete type=0 #660
+2024/01/22-16:21:47.467 2c22a Manual compaction at level-0 from '\x00\xd2\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\xd3\x00\x00\x00' @ 0 : 0; will stop at '\x00\xd2\x00\x00\x05' @ 6521 : 1
+2024/01/22-16:21:47.467 2c22a Compacting 1@0 + 1@1 files
+2024/01/22-16:21:47.501 2c22a Generated table #666@0: 254 keys, 6966 bytes
+2024/01/22-16:21:47.501 2c22a Compacted 1@0 + 1@1 files => 6966 bytes
+2024/01/22-16:21:47.557 2c22a compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/01/22-16:21:47.557 2c22a Delete type=2 #665
+2024/01/22-16:21:47.557 2c22a Manual compaction at level-0 from '\x00\xd2\x00\x00\x05' @ 6521 : 1 .. '\x00\xd3\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/01/22-16:21:47.558 2c22a Level-0 table #668: started
+2024/01/22-16:21:47.580 2c22a Level-0 table #668: 706 bytes OK
+2024/01/22-16:21:47.614 2c22a Delete type=2 #662
+2024/01/22-16:21:47.615 2c22a Delete type=0 #664
+2024/01/22-16:21:47.615 2c22a Manual compaction at level-0 from '\x00\xd3\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\xd4\x00\x00\x00' @ 0 : 0; will stop at '\x00\xd3\x00\x00\x05' @ 6538 : 1
+2024/01/22-16:21:47.615 2c22a Compacting 1@0 + 1@1 files
+2024/01/22-16:21:47.637 2c22a Generated table #669@0: 254 keys, 6965 bytes
+2024/01/22-16:21:47.637 2c22a Compacted 1@0 + 1@1 files => 6965 bytes
+2024/01/22-16:21:47.671 2c22a compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/01/22-16:21:47.671 2c22a Delete type=2 #668
+2024/01/22-16:21:47.671 2c22a Manual compaction at level-0 from '\x00\xd3\x00\x00\x05' @ 6538 : 1 .. '\x00\xd4\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/01/22-16:21:56.003 2c22a Level-0 table #671: started
+2024/01/22-16:21:56.049 2c22a Level-0 table #671: 706 bytes OK
+2024/01/22-16:21:56.106 2c22a Delete type=2 #666
+2024/01/22-16:21:56.106 2c22a Delete type=0 #667
+2024/01/22-16:21:56.106 2c22a Manual compaction at level-0 from '\x00\xd4\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\xd5\x00\x00\x00' @ 0 : 0; will stop at '\x00\xd4\x00\x00\x05' @ 6559 : 1
+2024/01/22-16:21:56.106 2c22a Compacting 1@0 + 1@1 files
+2024/01/22-16:21:56.140 2c22a Generated table #672@0: 254 keys, 6965 bytes
+2024/01/22-16:21:56.140 2c22a Compacted 1@0 + 1@1 files => 6965 bytes
+2024/01/22-16:21:56.200 2c22a compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/01/22-16:21:56.200 2c22a Delete type=2 #671
+2024/01/22-16:21:56.200 2c22a Manual compaction at level-0 from '\x00\xd4\x00\x00\x05' @ 6559 : 1 .. '\x00\xd5\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/01/22-16:21:56.201 2c22a Level-0 table #674: started
+2024/01/22-16:21:56.245 2c22a Level-0 table #674: 706 bytes OK
+2024/01/22-16:21:56.302 2c22a Delete type=0 #670
+2024/01/22-16:21:56.302 2c22a Delete type=2 #669
+2024/01/22-16:21:56.303 2c22a Manual compaction at level-0 from '\x00\xd5\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\xd6\x00\x00\x00' @ 0 : 0; will stop at '\x00\xd5\x00\x00\x05' @ 6576 : 1
+2024/01/22-16:21:56.303 2c22a Compacting 1@0 + 1@1 files
+2024/01/22-16:21:56.365 2c22a Generated table #675@0: 254 keys, 6967 bytes
+2024/01/22-16:21:56.365 2c22a Compacted 1@0 + 1@1 files => 6967 bytes
+2024/01/22-16:21:56.424 2c22a compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/01/22-16:21:56.424 2c22a Delete type=2 #674
+2024/01/22-16:21:56.425 2c22a Manual compaction at level-0 from '\x00\xd5\x00\x00\x05' @ 6576 : 1 .. '\x00\xd6\x00\x00\x00' @ 0 : 0; will stop at (end)
